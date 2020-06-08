@@ -1,2 +1,2 @@
 # Resource-Allocator
-ResourceAllocater.py
+ResourceAllocator.py
