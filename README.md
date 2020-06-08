@@ -1,1 +1,1 @@
-# Resource-Allocator
+# ResourceAllocator.Resource-Allocator
